@@ -1,0 +1,15 @@
+##############################
+#                            #
+#       ===Meniu===          #
+#                            #
+#                            #
+#    1. Plasare comanda      #
+#    2. Vanzare produse      #
+#    3. Vizualizare comenzi  #
+#    4. Cautare produse      #
+#    5. Afisare produse      #
+#                            #
+#    0. Deconectare          #
+#                            #
+##############################
+

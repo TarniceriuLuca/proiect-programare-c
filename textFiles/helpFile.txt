@@ -1,0 +1,3 @@
+- help: afiseaza detaliile fiecarei comenzi
+- signup: creeaza un cont cu [NUME] [PRENUME]
+- login [NUME] [PRENUME]: efectueaza logarea utilizatorului [NUME] [PRENUME]
